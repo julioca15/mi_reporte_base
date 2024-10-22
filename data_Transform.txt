@@ -2,4 +2,5 @@ Reglas de limpiza
 
 regla 1: DNI con 8 digitos
 regla 2: celular con 9 digitos
-regla 3 correo con nomelctura @ y .com
+regla 3 correo con nomelctura '@', .com.pe
+regla 4: reemplace espacios en blanco por la palabra ='Vacio'
